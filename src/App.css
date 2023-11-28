@@ -1,0 +1,36 @@
+
+body{background: #141414;
+  color: #ffff ;}
+ 
+.card {
+position: relative;
+transition: transform 0.2s;
+margin-top: 20px;
+}
+.card:hover{
+  cursor: pointer;
+
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.add{
+  margin-top: -158px;
+  margin-left: 1053px;
+}
+#dropdown-basic-button{
+  background: #1d1c1c;
+color :#f8f4f4;
+}
+p{
+
+}
+
+
+
+
